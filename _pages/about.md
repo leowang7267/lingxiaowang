@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in [Department of Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), advised by [Professor Quanquan Gu](http://web.cs.ucla.edu/~qgu/). My research interests include privacy-perserving machine learning, data mining and high dmensional statistics. See my latest Curriculum Vitae.
+I am currently a Ph.D. student in [Department of Computer Science](https://www.cs.ucla.edu/) at [University of California, Los Angeles](https://www.ucla.edu/), advised by [Professor Quanquan Gu](http://web.cs.ucla.edu/~qgu/). My research interests include privacy-perserving machine learning, optimization, data mining and high dmensional statistics. See my latest Curriculum Vitae.
 
 
 A data-driven personal website
