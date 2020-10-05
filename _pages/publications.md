@@ -11,10 +11,10 @@ author_profile: true
 Difan Zou, <b>Lingxiao Wang</b>, Pan Xu, Jinghui Chen, Weitong Zhang, Quanquan Gu, medRxiv: 2020.05.24.20111989.
 
 <b>[Efficient Privacy-Preserving Stochastic Nonconvex Optimization](https://drive.google.com/file/d/1FfGuUOnVgCCOUsBh80_jj67FW9A4HrVt/view)</b> <br> 
-<b>Lingxiao Wang</b>,, Bargav Jayaraman, David Evans Quanquan Gu, arXiv:1704.06256, 2017.
+<b>Lingxiao Wang</b>,, Bargav Jayaraman, David Evans Quanquan Gu. <i>This work has been presented at the ICML 2020 [EcoPaDL workshop](https://vasiloglou.github.io/EcoPaDL/)</i>.
 
 <b>[Robust Wirtinger Flow for Phase Retrieval with Arbitrary Corruption](https://arxiv.org/abs/1704.06256)</b> <br> 
-Jinghui Chen, <b>Lingxiao Wang</b>, Xiao Zhang, Quanquan Gu. <i>This work has been presented at the ICML 2020 [EcoPaDL workshop](https://vasiloglou.github.io/EcoPaDL/)</i> .
+Jinghui Chen, <b>Lingxiao Wang</b>, Xiao Zhang, Quanquan Gu, arXiv:1704.06256, 2017.
 
 # Publications
 <br>
