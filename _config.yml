@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
+footer_name              : "Lingxiao Wang"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "personal description"
