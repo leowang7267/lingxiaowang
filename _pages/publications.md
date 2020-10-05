@@ -8,13 +8,16 @@ author_profile: true
 # Preprints
 <br>
 <b>[Epidemic Model Guided Machine Learning for COVID-19 Forecasts in the United States](https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)</b> <br> 
-Difan Zou, <b>Lingxiao Wang</b>, Pan Xu, Jinghui Chen, Weitong Zhang, Quanquan Gu, medRxiv: 2020.05.24.20111989.
+Difan Zou, <b>Lingxiao Wang</b>, Pan Xu, Jinghui Chen, Weitong Zhang, Quanquan Gu, <i>TmedRxiv: 2020.05.24.20111989</i>, 2020.
+
+<b>[Revisiting Membership Inference Under Realistic Assumptions](https://arxiv.org/abs/2005.10881)</b> <br> 
+Bargav Jayaraman, <b>Lingxiao Wang</b>, David Evans, Quanquan Gu, <i>arXiv:2005.10881</i>, 2020.
 
 <b>[Efficient Privacy-Preserving Stochastic Nonconvex Optimization](https://drive.google.com/file/d/1FfGuUOnVgCCOUsBh80_jj67FW9A4HrVt/view)</b> <br> 
 <b>Lingxiao Wang</b>,, Bargav Jayaraman, David Evans Quanquan Gu. <i>This work has been presented at the ICML 2020 [EcoPaDL workshop](https://vasiloglou.github.io/EcoPaDL/)</i>.
 
 <b>[Robust Wirtinger Flow for Phase Retrieval with Arbitrary Corruption](https://arxiv.org/abs/1704.06256)</b> <br> 
-Jinghui Chen, <b>Lingxiao Wang</b>, Xiao Zhang, Quanquan Gu, arXiv:1704.06256, 2017.
+Jinghui Chen, <b>Lingxiao Wang</b>, Xiao Zhang, Quanquan Gu, <i>arXiv:1704.06256</i>, 2017.
 
 # Publications
 <br>
