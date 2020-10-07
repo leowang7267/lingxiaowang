@@ -8,7 +8,7 @@ author_profile: true
 # Preprints
 <br>
 <b>[Epidemic Model Guided Machine Learning for COVID-19 Forecasts in the United States](https://www.medrxiv.org/content/10.1101/2020.05.24.20111989v1)</b> <br> 
-Difan Zou, <b>Lingxiao Wang</b>, Pan Xu, Jinghui Chen, Weitong Zhang, Quanquan Gu, <i>TmedRxiv: 2020.05.24.20111989</i>, 2020.
+Difan Zou, <b>Lingxiao Wang</b>, Pan Xu, Jinghui Chen, Weitong Zhang, Quanquan Gu, <i>medRxiv: 2020.05.24.20111989</i>, 2020.
 
 <b>[Revisiting Membership Inference Under Realistic Assumptions](https://arxiv.org/abs/2005.10881)</b> <br> 
 Bargav Jayaraman, <b>Lingxiao Wang</b>, David Evans, Quanquan Gu, <i>arXiv:2005.10881</i>, 2020.
